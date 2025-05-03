@@ -2,3 +2,4 @@ ccxt
 python-telegram-bot
 pandas
 ta
+python-binance
